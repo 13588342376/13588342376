@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @13588342376
-- 👀 I’m interested in Unity C# C++ Blender
+- 👀 I’m interested in Unity  C++  Blender  vs code  ai agent
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me TEl:13588342376 QQ:366168659
